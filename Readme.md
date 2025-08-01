@@ -23,7 +23,3 @@ This repository contains all my data engineering projects. In this repo, I will 
    - A data engineering project for simulating data generation using Python for Apache Kafka, processing the data with Apache Spark, and storing it in Amazon S3. 
    - All services will be orchestrated and run on Docker containers.
 
-## Contact
-
-If you have any queries, feel free to reach out to me at riteshojha2002@gmail.com or create issue [here](https://github.com/ritesh-ojha/Data-Engineering/issues/new).
-
